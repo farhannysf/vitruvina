@@ -1,12 +1,12 @@
 # Vitruvina
-A conversational Slack virtual assistant for a very basic corporate finance analytics, written in Python 3. 
+A conversational Slack virtual assistant that implements natural language processing for a very basic corporate finance analytics, written in Python 3. 
 
 # About
-This project is made for University of Leeds Fintech Hackathon 2018 to solve the challenge of improving stakeholders trust by increasing public accessibilities to corporate financial information from leveraging conversational interface. 
+This project is made for University of Leeds Fintech Hackathon 2018 to solve the challenge of improving stakeholders trust by increasing public accessibility to corporate financial information from leveraging conversational interface. 
 It uses external APIs for natural language processing and to retrieve company financials dataset. Analytics are calculated locally within the client and uses event-driven architecture through webhooks to interact with Slack.
 
 # Features
-The bot is actively hosted in HiTECH Innovation Leeds Slack workspace. It's able to show company financial accounts such as balance sheet, financial statement and generating basic analytics about profitability and liquidity of a US public company in a given fiscal period.
+The bot is actively hosted in HiTECH Innovation Leeds Slack workspace. It is able to show company financial accounts such as balance sheet, financial statement and generating basic analytics about profitability and liquidity of a US public company in a given fiscal period.
 
 ### Example of profitability analytics
 
