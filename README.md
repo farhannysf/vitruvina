@@ -14,7 +14,7 @@ The bot is actively hosted in HiTECH Innovation Leeds Slack workspace. It is abl
 
 ### Example of liquidity analytics
 
-![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/docs/liquidityExample.gif)
+![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/docs/liquidity1Example.gif)
 
 ### Example of balance sheet
 
