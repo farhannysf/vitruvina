@@ -103,7 +103,7 @@ async def logicUnit(request):
             incomeStatement = await finance_utils.generate_statementData(incomeStatement_data)
             balanceSheet = await finance_utils.generate_statementData(balanceSheet_data)
             profitability = await finance_utils.generateProfitability(incomeStatement, balanceSheet)
-            message = f'Here is some key financial metrics to help you understand the profitability of {companyData["companyName"]}\n*{queries["fiscalPeriod"]} {queries["fiscalYear"]} Profitability of {companyData["companyName"]} ({companyData["companyTicker"]})*\n{profitability}'
+            message = f'Here is some key financial metrics to help you understand the loquidity of {companyData["companyName"]}\n*{queries["fiscalPeriod"]} {queries["fiscalYear"]} Profitability of {companyData["companyName"]} ({companyData["companyTicker"]})*\n{profitability}'
 
         if account == 'liquidity':
             account = 'balance_sheet'
