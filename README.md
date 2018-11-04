@@ -35,6 +35,7 @@ The bot is actively hosted in HiTECH Innovation Leeds Slack workspace. It's able
 
 ### APIs
 
+* [Slack](https://api.slack.com/)
 * [Dialogflow](https://dialogflow.com/)
 * [Intrinio](https://intrinio.com/)
 * [Cleverbot](https://www.cleverbot.com/)
