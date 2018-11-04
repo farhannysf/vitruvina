@@ -11,3 +11,15 @@ The bot is actively hosted in HiTECH Innovation Leeds Slack workspace. It's able
 **Example of profitability analytics**
 
 ![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/profitabilityExample.gif)
+
+**Example of liquidity analytics**
+
+![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/liquidityExample.gif)
+
+**Example of balance sheet**
+
+![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/balancesheetExample.gif)
+
+**Example of income statement**
+
+![Alt Text](https://github.com/farhannysf/vitruvina/blob/master/incomestatementExample.gif)
